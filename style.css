@@ -22,4 +22,13 @@ body {
     margin: inherit;
    }
    
+   .submit-btn,
+   .reset-btn {
+    width: 45%;
+    border: 0;
+    height: 30px;
+    margin: 2%;
+    color: white;
+   }
+   
    
