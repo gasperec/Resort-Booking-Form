@@ -31,4 +31,11 @@ body {
     color: white;
    }
    
+   .reset-btn {
+    background-color: #EE7474;
+   }
+   
+   .submit-btn {
+    background-color: #62E0F7;
+   }
    
